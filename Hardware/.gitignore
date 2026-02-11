@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environnements virtuels
+.venv/
+venv/
+
+# Caches et outils
+.mypy_cache/
+.pytest_cache/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Builds / packaging
+build/
+dist/
+*.egg-info/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Images/artefacts générés (à adapter)
+etiquette/
+photo/
